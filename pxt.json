@@ -1,0 +1,30 @@
+{
+    "name": "Woodpeckers",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-microbitorchestra": "github:captaincredible/pxt-microbitorchestra#b010b54ee2a4f554e7e12da5a7a99afb30e3337a"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v3.0.68",
+        "tag": "v3.0.68",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/c3fd936c8e507d2318fab615facb37d0f07179fb",
+        "target": "4.0.11",
+        "pxt": "6.0.39",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
